@@ -24,9 +24,9 @@
     "@types/react": "^18.2.42",
     "@typescript-eslint/eslint-plugin": "^5.62.0",
     "@typescript-eslint/parser": "^5.62.0",
-    "astro": "^4.0.2",
+    "astro": "latest",
     "astro-eslint-parser": "^0.16.0",
-    "astro-imagetools": "^0.6.17",
+    "astro-imagetools": "latest",
     "astro-robots-txt": "^0.3.12",
     "eslint": "^8.55.0",
     "eslint-config-airbnb-base": "^15.0.0",
@@ -53,6 +53,9 @@
     "date-fns": "^2.30.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "sequelize": "^6.37.1",
+    "sequelize-typescript": "^2.1.6",
+    "sharp": "latest",
     "typescript": "^5.3.3"
   },
   "volta": {
